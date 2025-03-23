@@ -1,7 +1,7 @@
 @echo off
 git add .
-echo ""
+echo.
 git commit -m "update some stuff"
-echo ""
+echo.
 git push origin main
-echo ""
+echo.
